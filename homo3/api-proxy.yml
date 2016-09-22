@@ -1,4 +1,0 @@
-zuul:
-  ignored-services: '*'
-  routes:
-    account-service: /account-service/**
