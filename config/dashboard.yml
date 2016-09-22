@@ -1,0 +1,6 @@
+server:
+  port: 6161
+turbine:
+  appConfig: efs-backend-service,account-service
+  clusterNameExpression: new String("default")
+  combineHostPort: true
