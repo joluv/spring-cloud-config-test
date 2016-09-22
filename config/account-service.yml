@@ -1,5 +1,3 @@
-spring:
-  profiles: dev
 env:
   efs:
     baseUrl: http://localhost:8081
